@@ -1,0 +1,1 @@
+import{_ as t,c as s,o as c,a as e}from"./index.f1c12bc9.js";const o={},a={class:"container mx-auto"},n=e("div",{class:"h-screen flex items-center justify-center"},[e("div",{class:"font-bold text-2xl"},"\uD398\uC774\uC9C0\uB97C \uCC3E\uC744 \uC218 \uC5C6\uC2B5\uB2C8\uB2E4.")],-1),r=[n];function _(i,d){return c(),s("div",a,r)}var f=t(o,[["render",_]]);export{f as default};
